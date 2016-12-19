@@ -1,0 +1,14 @@
+{
+  "name": "Shutdown-Server",
+  "version": "1.0.0",
+  "description": "Server for the shutdown over hap project",
+  "main": "index.js",
+  "author": "Nils Bergmann <nilsbergmann@noim.io>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "is-root": "^1.0.0",
+    "json-web-token": "^2.0.3",
+    "pino": "^3.0.5"
+  }
+}
